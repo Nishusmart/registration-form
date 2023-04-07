@@ -15,7 +15,7 @@ a basic registration form
 <td>Name<sup>*</sup></td>
 <td><input type="text" name="f1" maxlength="14" placeholder="Enter your name"></td></tr>
 <tr><td>Name of the organization<sup>*</sup> </td>
-<td><input type="text" name="f1" placeholder="Enter your name of organization"></td></tr>
+<td><input type="text" name="f1" placeholder="Enter the name of your organization"></td></tr>
 <tr><td>Designation in organization <sup>*</sup></td>
 <td><input type="text" name="f1" placeholder="Designation in organization"></td></tr>
 <tr><td>Email id<sup>*</sup> </td>
